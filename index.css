@@ -1,0 +1,27 @@
+.tag {
+    display: block;
+    text-align: center;
+    padding: 10px 10px;
+    margin: 5px;
+    color: white;
+    border-radius: 5px;
+}
+h1,h3{
+    text-align: center;
+}
+#buttonred{
+    display: grid;
+    margin:auto;
+    padding: 5px 10px
+}
+#buttongreen{
+    display: grid;
+    margin:auto;
+    margin-top: 20px;
+    
+    padding: 5px 10px;
+}
+#output{
+    display: grid;
+    margin:auto;
+}
